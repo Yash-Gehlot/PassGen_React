@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ 
+#main{
+    margin-left: 30%;
+    margin-top: 20%;
+}
+
+#downHeader{
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+#newh1{
+    margin-bottom: 15px;
+    text-decoration-style: bold;
+}
+
+#button{
+    padding-bottom: 6px;
+}
